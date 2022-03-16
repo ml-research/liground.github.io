@@ -8,9 +8,9 @@
         skills and efficiently analyze the most complex chess positions that
         exist. <br />
         LiGround allows its users to manually add an arbitrary engine or remove
-        a specific engine if desired. This allows LiGround users to anaylize
+        a specific engine if desired. This allows LiGround users to analyze
         chess positions with an engine they prefer. <br />
-        In addtition to the possibility of manually adding engines to the GUI,
+        In addition to the possibility of manually adding engines to the GUI,
         LiGround also supports a wide variaty of chess variants: Horde, King of
         the hill, racing Kings... just to name a few. To evaluate the position
         in these variants, LiGround uses Fairy Stockfish 13 as default. <br />
@@ -23,7 +23,7 @@
           The standard landing page of LiGround. This is what you see when you
           open LiGround for the first time. You can deactivate the engine by
           clicking the switch button next to the name of the engine you are
-          currently using. In This example Stockfish 12.
+          currently using. In this example Stockfish 12.
         </p>
         <img src="../assets/ligroundstart.jpeg" alt="" />
       </section>
