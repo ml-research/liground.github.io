@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/vue-pages/'
+  publicPath: '/liground.github.io/'
 }
