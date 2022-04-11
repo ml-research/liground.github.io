@@ -1,10 +1,30 @@
 # liground.github.io
-Website of LiGround - A free, open-source and modern Chess Variant Analysis GUI for the 21st century 
+Website of LiGround - A free, open-source and modern Chess Variant Analysis GUI for the 21st century
 
-Navigate into liground.github.io/ligroundpages
+## Project setup
+```
+npm install
+```
 
-npm install 
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-npm run serve 
+### Compiles and minifies for production
+```
+npm run build
+```
 
-go to localhost 
+### Lints and fixes files
+```
+npm run lint
+```
+
+## Deploy Website
+```
+npm run deploy
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
