@@ -14,10 +14,15 @@
           >
         </li>
         <li>
+          <router-link class="link" :to="{ name: 'LegalInfo' }">
+            Legal Info</router-link>
+        </li>
+        <li>
           <a class="link" href="https://github.com/ml-research/liground"
             >Go to GitHub</a
           >
         </li>
+
       </ul>
     </nav>
   </header>
